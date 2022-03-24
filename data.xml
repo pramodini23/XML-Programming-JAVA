@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE assignment [
+        <!ELEMENT assignment (to|from|subject|message)*>
+        <!ELEMENT to (#PCDATA)>
+        <!ELEMENT from (#PCDATA)>
+        <!ELEMENT subject (#PCDATA)>
+        <!ELEMENT message (#PCDATA)>
+        ]>
+<assignment>
+    <to>My Readers</to>
+    <from>Pramodini</from>
+    <subject>A Message to my readers</subject>
+    <message>Welcome to assignment.com</message>
+</assignment>
